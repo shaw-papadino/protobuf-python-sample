@@ -1,6 +1,6 @@
 # 概要
 
-PythonでProtocol Buffer を扱うためのチュートリアルをやった時のレポジトリ
+PythonでProtocol Buffer を扱うためのチュートリアルを進めた時のレポジトリ
 
 # 実行環境
 
